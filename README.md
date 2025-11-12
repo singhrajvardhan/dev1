@@ -1,7 +1,5 @@
 # First Sample Project
 
-
-
 ## its is basic get commands exection
 
 
