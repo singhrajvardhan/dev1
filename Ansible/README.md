@@ -2,6 +2,7 @@
 Jenkins Ansible Role - Automated Setup with Suggested Plugins and BlueOcean UI on AWS
 This repository provides a **complete Ansible-based solution** for **automated deployment** and **management** of a Jenkins CI/CD infrastructure on AWS EC2 instances.
 
+
 It uses a **dynamic inventory** to discover and manage EC2 instances based on their **tags**, grouping them automatically for **targeted playbook execution**. It can **fallback to a static inventory** if dynamic discovery fails.
 
 ---
